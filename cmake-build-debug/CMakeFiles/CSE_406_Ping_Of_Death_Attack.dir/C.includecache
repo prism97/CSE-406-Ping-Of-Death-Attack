@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Downloads/CSE 406 Security/project/Ping/Death/CSE-406-Ping-Of-Death-Attack/headers.h
+
+/home/ubuntu/Downloads/CSE 406 Security/project/Ping/Death/CSE-406-Ping-Of-Death-Attack/main.c
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+errno.h
+-
+headers.h
+/home/ubuntu/Downloads/CSE 406 Security/project/Ping/Death/CSE-406-Ping-Of-Death-Attack/headers.h
+
